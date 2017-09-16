@@ -17,6 +17,8 @@ we need nodejs installed
 $ npm i --silent
 ```
 
+- start microservice project that will start the databases needed
+
 - run the tests
 ```
 $ npm test
