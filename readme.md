@@ -17,7 +17,11 @@ we need nodejs installed
 $ npm i --silent
 ```
 
-- start microservice project that will start the databases needed
+- start microservice project that will provide the databases needed
+
+```
+- [Microservice example](https://github.com/Crizstian/cinema-microservice)
+```
 
 - run the tests
 ```
